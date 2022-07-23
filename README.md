@@ -1,3 +1,2 @@
 # test
-this is a brief  decription
-hahaha
+this is a test repository for validity.
